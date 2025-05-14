@@ -1,0 +1,9 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "longitude"
+    ],
+    "_FillValue": NaN,
+    "long_name": "longitude",
+    "standard_name": "longitude",
+    "units": "degrees_east"
+}
