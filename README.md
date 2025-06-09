@@ -34,7 +34,7 @@ O projeto está dividido nas seguintes etapas principais:
    - Cálculo de métricas como RMSE, MAE, SMAPE, entre outras.
 
 ## Contatos
-Autor(a): Júlia Yuri Garcia Baba - 190057921@aluno.unb.br
-Orientador: Jan Mendonça Correa - jancorrea@unb.br
+- Autor(a): Júlia Yuri Garcia Baba - 190057921@aluno.unb.br
+- Orientador: Jan Mendonça Correa - jancorrea@unb.br
 
 
