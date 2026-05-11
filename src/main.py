@@ -32,7 +32,7 @@ print(df_notimecollumn)
 
 
 #Teste
-plt.plot(df_notimecollumn[column_name], label='Previsão')
+plt.plot(df_notimecollumn[column_name], label='Forecast')
 plt.savefig('data.png')
 
 # Verificar se há valores nulos
@@ -54,10 +54,10 @@ forecast = model_fit.forecast(steps=len(test))
 
 # Visualização das previsões
 plt.figure(figsize=(12,6))
-plt.plot(train.index, train[column_name], label='Treinamento')
-plt.plot(test.index, test[column_name], label='Teste')
-plt.plot(test.index, forecast, label='Previsão')
-plt.ylabel('Temperatura')
+plt.plot(train.index, train[column_name], label='Training')
+plt.plot(test.index, test[column_name], label='Test')
+plt.plot(test.index, forecast, label='Forecast')
+plt.ylabel('Temperature')
 plt.legend(loc='upper left')
 
 # Cálculo erro quadrático
