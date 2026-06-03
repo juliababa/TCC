@@ -1,0 +1,5 @@
+check,violations
+precip_non_negative,0
+humidity_0_100,0
+wind_dir_0_360,0
+wind_speed_non_negative,0

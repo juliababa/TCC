@@ -1,0 +1,6 @@
+metric,value
+start_date,2019-01-01
+end_date,2024-12-31
+observed_days,2192
+expected_days,2192
+missing_days,0
